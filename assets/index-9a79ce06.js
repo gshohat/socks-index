@@ -61,7 +61,7 @@
         grid-gap: 40px;
         height: 100%;
         overflow: scroll;
-        width: 750px;
+        width: 800px;
     }
     
     .sock-brand {
