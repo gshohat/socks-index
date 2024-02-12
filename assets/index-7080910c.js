@@ -60,8 +60,8 @@
         justify-content: center;
         grid-gap: 40px;
         height: 100%;
-        overflow: scroll;
-        width: 800px;
+        overflow-y: scroll;
+        width: 75px;
     }
     
     .sock-brand {
